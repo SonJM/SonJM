@@ -4,6 +4,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 ![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJM&langs_count=8&layout=compact&theme=dark)](https://github.com/SonJM/SonJM)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
