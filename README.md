@@ -28,7 +28,6 @@
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="30" height="30"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="mongodb" width="30" height="30"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
   <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686426&term=phpstorm&gclid=Cj0KCQjw37iTBhCWARIsACBt1IzM6r3okEHJXACXMEyWAskFc4hQdqaMKmD32DzV0L-Ygcs5L6UK224aAp4uEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" alt="PHPStorm" width="30" height="30"/> </a> 
