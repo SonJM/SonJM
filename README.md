@@ -17,12 +17,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-14354C.svg?logo=css3&logoColor=white&color=blue"></a>
 <a href="https://www.cplusplus.com/"><img alt="c++" src="https://img.shields.io/badge/C/C++-14354C.svg?logo=c&logoColor=white&color=blue"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-14354C.svg?logo=python&logoColor=orange&color=white"></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-14354C.svg?logo=java&logoColor=white&color=orange"></a>
 
 
 <a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-14354C.svg?logo=vue.js&logoColor=black&color=purbleblue"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
-<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-14354C.svg?logo=flask&logoColor=green&color=white"></a>
+<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-14354C.svg?logo=flask&logoColor=white&color=green"></a>
 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
