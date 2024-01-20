@@ -23,7 +23,7 @@
 
 <a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-14354C.svg?logo=vue.js&logoColor=black&color=purbleblue"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
-<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-14354C.svg?logo=flask&logoColor=white&color=green"></a>
+<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-14354C.svg?logo=flask&logoColor=black&color=white"></a>
 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
