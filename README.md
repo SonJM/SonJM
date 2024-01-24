@@ -1,7 +1,4 @@
 ### 어서오세요 👋
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 ![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonJM&theme=holi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJM&langs_count=8&layout=compact&theme=holi)](https://github.com/SonJM/SonJM)
