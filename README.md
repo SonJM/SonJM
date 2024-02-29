@@ -7,6 +7,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/blisle-undefined-060a9a257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
  <a href="https://www.instagram.com/_son_jm_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blisle)](https://solved.ac/blisle/)
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 
