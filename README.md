@@ -1,7 +1,7 @@
 ### 어서오세요 👋
 
 ![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonJM&theme=holi&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJM&langs_count=8&layout=compact&theme=holi)](https://github.com/SonJM/SonJM)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJM&langs_count=8&layout=compact&theme=holi)](https://github.com/SonJM/SonJM)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blisle)](https://solved.ac/blisle/)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
